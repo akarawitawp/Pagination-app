@@ -9,7 +9,7 @@ function App() {
   const [dataInPage, setDataInPage] = useState([]);
   const [page, setPage] = useState(0);
   const [selectedPicture, setSelectedPicture] = useState(null);
-
+  //dsadasdasd
   // ข้อมูลทั้งหมด 10 รายการ
   //จำนวนรายการแต่ละหน้า
   //จำนวนเลขหน้าแต่ละหน้า
